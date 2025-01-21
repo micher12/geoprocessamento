@@ -1,0 +1,19 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"vmArgs": "--module-path lib/lib --add-modules javafx.controls,javafx.fxml -Xms512m -Xmx4G",
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"vmArgs": "--module-path lib/lib --add-modules javafx.controls,javafx.fxml -Xms512m -Xmx4G",
+			"type": "java",
+			"name": "Launch App",
+			"request": "launch",
+			"mainClass": "App"
+		}
+	]
+}
