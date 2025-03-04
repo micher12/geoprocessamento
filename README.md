@@ -1,5 +1,5 @@
 # Projeto Geoprocessamento
-<p>Trata-se de um projeto da faculdade, tem como objetivo ordenar 100 mil imagens sobre o ambiente do serrado. Com isso surgiu este software que recebe uma imagem anterior e posterior de alguma ação humana que prejudicou o local</p>
+<p>Trata-se de um projeto da faculdade, tem como objetivo ordenar 100 mil imagens sobre o ambiente do cerrado. Com isso surgiu este software que recebe uma imagem anterior e posterior de alguma ação humana que prejudicou o local</p>
 
 <br/>
 
